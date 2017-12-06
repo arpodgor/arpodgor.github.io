@@ -1,1 +1,1 @@
-This repository contains Alexander Podgorsak's startpage in source form hosted by github.
+This repository contains a startpage in source form hosted by github.
